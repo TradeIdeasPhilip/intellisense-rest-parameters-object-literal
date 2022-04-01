@@ -1,6 +1,6 @@
 # Bug Report
 
-This project contains some sample code for a bug report.
+This project contains some sample code for a [bug report](https://github.com/microsoft/vscode/issues/146590).
 
 This code does not run or compile!
 
